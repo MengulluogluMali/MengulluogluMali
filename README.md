@@ -8,4 +8,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-meng%C3%BCll%C3%BCo%C4%9Flu-332ab1251/)
 
 
-![3D GitHub Profile](https://github.com/yasintoy/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-green.svg)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MengulluogluMali&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true)](https://github.com/MengulluogluMali)
